@@ -5,3 +5,5 @@ Know that you are probably much more likely to have your computer spontaneously 
 
 Because this is a crypto currency related program, I am obligated to list a donation address:
 13Z1Kyoh5Xb7Z863jArHT8bwyFkEcHSZgQ
+
+# [Download](https://github.com/schyczewski/brutefailure/releases/tag/1.0)
